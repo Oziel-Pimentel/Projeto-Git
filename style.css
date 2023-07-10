@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #FFF;
+    width: 100%;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+nav input{
+    float: right;
+    margin-right: 3rem;
+    float: right;
+    position: relative;
+    top: 30px;
+    right: 5%;
+}
+
+nav input{
+    border-radius: 25px;
+    width: 75px;
+    padding: auto;
+    border: none;
+    background-color: #349730;
+    color: white;
+}
+nav input:hover{
+    background-color: #C80C0F;
+}
+
+a{
+
+  text-decoration: none;
+  font: 1em PT Sans, sans-serif;
+  color: black;
+
+}
+
+.a-menu{
+  margin-left: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 3em;
+  text-align:left;
+  margin-left: 100px;
+}
+
+#saibam{
+    border-radius: 25px;
+    width: 75px;
+    padding: auto;
+    border: none;
+    background-color: #349730;
+    color: white;
+}
+
+#p-main{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.2em;
+	text-align: left;
+	margin-left: 100px;
+}
+
+#img-home{
+	width: 80%;
+	height: 80%;
+}
+
+.container-main{
+	display: flex;
+	text-align: justify;
+}
+
+.container-img{
+	display: flex;
+	margin-left: 20px;
+} 
+
+.img-icones{
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+
+footer{
+	text-align: center;
+    font-size: 1.5em;
+}
+
+footer{
+    background-color: rgb(52, 43, 43);
+    width: 100%;
+    width: 100%;
+    color: white;
+    padding: 3%;
+}
